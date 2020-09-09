@@ -1,0 +1,19 @@
+{
+  "name": "node-wxbizmsgcrypt",
+  "version": "1.0.0",
+  "description": "微信开放平台加解密",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahao/node-WXBizMsgCrypt.git"
+  },
+  "author": "hellyw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahao/node-WXBizMsgCrypt/issues"
+  },
+  "homepage": "https://github.com/wahao/node-WXBizMsgCrypt#readme"
+}
